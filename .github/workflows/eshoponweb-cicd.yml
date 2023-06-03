@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 238e1c7e-adaf-4eb2-8463-5921e8fca378
-  WEBAPP-NAME: MyZaureGitHUbTest
+  WEBAPP-NAME: MyAzureGitHUbWebSiteTest
 
 
 jobs:
